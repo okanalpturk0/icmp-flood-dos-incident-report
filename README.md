@@ -18,14 +18,6 @@ The scenario describes a high volume of ICMP traffic disrupting internal network
 
 This is an educational scenario, not a claim of a verified real-world incident or data breach.
 
-## Attack Flow
-
-![ICMP Flood Attack Flow](images/attack-flow.png)
-
-## NIST Cybersecurity Framework
-
-![NIST CSF Five Core Functions](images/nist-csf-functions.png)
-
 The report maps the incident to the five CSF functions: Identify, Protect, Detect, Respond, and Recover.
 
 ## Recommended Security Controls
@@ -35,10 +27,6 @@ The report maps the incident to the five CSF functions: Identify, Protect, Detec
 - Network traffic monitoring and centralized log analysis
 - Intrusion detection and alerting
 - Incident evidence preservation and recovery validation
-
-## Report
-
-[Read the full incident report (PDF)](report/incident-report.pdf)
 
 ## Scope and Disclaimer
 
